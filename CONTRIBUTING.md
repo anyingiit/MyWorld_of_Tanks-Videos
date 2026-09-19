@@ -28,12 +28,11 @@ Do not report security issues in public. Follow the steps in the [security polic
 
 ## Submitting pull requests
 
-1. Fork the repository and create a branch from `main`.
+1. Fork the repository and create a branch from `master`.
 2. Follow the existing code style.
 3. Add or update tests that cover your change.
 4. If the change is worth recording, add an entry under `Unreleased` in the [changelog](CHANGELOG.md).
-5. Make sure the CI checks pass.
-6. Open a pull request and fill in the template.
+5. Open a pull request and fill in the template.
 
 Smaller, focused pull requests are easier to review and get merged sooner than large ones. If you plan a bigger change, it is worth opening an issue first to agree on the approach.
 
